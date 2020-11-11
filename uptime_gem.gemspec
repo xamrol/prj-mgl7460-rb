@@ -8,7 +8,8 @@ Gem::Specification.new do |s|
   s.date = %q{2020-11-11}
   s.summary = %q{uptime_gem for MGL7460 TP2}
   s.files = [
-    "lib/uptime.rb"
+    "lib/uptime.rb", 
+	"Rakefile.rb"
   ]
   s.require_paths = ["lib"]
   s.metadata = { "source_code_uri" => "https://github.com/xamrol/prj-mgl7460-rb" }
